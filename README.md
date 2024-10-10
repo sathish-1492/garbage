@@ -1,2 +1,2 @@
 # garbage
-plastic manage app
+plastic manage application for customer and vendor management
